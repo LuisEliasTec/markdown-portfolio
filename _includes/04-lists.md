@@ -2,8 +2,8 @@
 
 1. Uno
 2. Dos
-  i. Uno
-  ii. Dos
+  1. Uno
+  2. Dos
   
 * Uno
 * Dos
